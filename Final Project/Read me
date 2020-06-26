@@ -1,0 +1,8 @@
+In this project, a SMPM servo motor with the following specs. will be designed by aiming high efficiency and low inertia. 
+Analytical calculations will be given and some iterations will be made in order to optimize the size and dimensions of the machine. 
+Finally, by using Finite Element Analysis tool the machine will be verified.
+
+Power Rating: 1 kW
+Rated Speed: 3000 rpm
+Rated Voltage: 400 V l-l
+
